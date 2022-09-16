@@ -1,0 +1,8 @@
+.default {
+    font-style: inherit;
+}
+
+.red {
+    background-color: #ff606c;
+    font-style: inherit;
+}
