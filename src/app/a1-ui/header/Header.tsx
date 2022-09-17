@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from "react-router-dom";
-import {PATH} from "../routes/route-paths";
+import {PATH} from "../../../common/routing/route-paths";
 
 export const Header = () => {
     return (

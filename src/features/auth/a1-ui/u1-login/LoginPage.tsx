@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from "react-router-dom";
-import {PATH} from "../../../../k1-main/m1-ui/routes/route-paths";
+import {PATH} from "../../../../common/routing/route-paths";
 
 export const LoginPage = () => {
     return (
